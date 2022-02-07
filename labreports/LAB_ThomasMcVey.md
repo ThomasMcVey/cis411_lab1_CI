@@ -146,5 +146,5 @@ a4096db Create README.md
 ```
 
 * A screenshot of the _Jobs_ list in CircleCI
-![CircleCI Success](../assets/circleci_success.png)
+![CircleCI Success](../assets/LabreportSuccess.png)
 
